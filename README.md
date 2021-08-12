@@ -52,7 +52,7 @@ https://github.com/slow/nitro-sniper/wiki/Installation
 settings="{
    tokens: {
       // Main Token
-      main: 'Nz...',
+      main: 'mfa.Ie887gAwOdyGmrRydI68UmQK_IzdXjuvqbH2TSLkBggDCiq-896AYe1b4ItvUVdULTZL_8-LVUt2o3tGZZUB',
       // Alt Tokens
       alts: [
          'Nz...',
@@ -86,9 +86,9 @@ settings="{
       // DM the hoster on giveaway win (true/false)
       dm: true,
       // Message to DM the host
-      dmMessage: 'Hey, i won the giveaway. Could i redeem my prize?',
+      dmMessage: 'i won',
       // How long to wait to DM (in seconds)
-      dmDelay: 25,
+      dmDelay: 5,
       // Blacklisted words for giveaway prizes
       blacklistedWords: [
          'bot',
