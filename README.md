@@ -52,7 +52,7 @@ https://github.com/slow/nitro-sniper/wiki/Installation
 settings="{
    tokens: {
       // Main Token
-      main: 'mfa.Ie887gAwOdyGmrRydI68UmQK_IzdXjuvqbH2TSLkBggDCiq-896AYe1b4ItvUVdULTZL_8-LVUt2o3tGZZUB',
+      main: 'asd',
       // Alt Tokens
       alts: [
          'Nz...',
